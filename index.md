@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 荒川雅人のホームページ
 
 You can use the [editor on GitHub](https://github.com/Arakawa0918/arakwa/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
