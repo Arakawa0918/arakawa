@@ -8,10 +8,10 @@
 
 趣味  
 ・釣り  
--バス釣り
+ -バス釣り
 
 ・最近ハマっているゲーム  
--DEATH STRANDING
+ -DEATH STRANDING
 
 使ったことあるソフト  
 ・Fusion360  
