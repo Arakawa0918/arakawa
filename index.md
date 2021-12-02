@@ -29,8 +29,7 @@
 ・3Dプリンタ  
 ・レーザーカッター
 
-3Dプリンタで作ったもの  
-ルアー  
+3Dプリンタで作ったルアー    
 <img src="https://user-images.githubusercontent.com/95011705/143995067-74ff0ccf-05c9-4f39-b93f-72910f0cde19.JPG" width="320px">
 
 インターンシップで何をしたか  
