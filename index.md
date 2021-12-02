@@ -8,7 +8,9 @@
 
 趣味  
 ・釣り  
-  -バス釣り
+  -バス釣り  
+<img src="https://user-images.githubusercontent.com/95011705/144359051-20f0d9d7-5226-459a-b679-b227c528dc66.JPG" width="320px">
+  
 
 ・最近ハマっているゲーム  
   -DEATH STRANDING
